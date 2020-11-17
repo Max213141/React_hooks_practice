@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a1fac40-249e-4897-ae57-0d688802e6bd" name="Default Changelist" comment="" />
+    <list default="true" id="5a1fac40-249e-4897-ae57-0d688802e6bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kNmFp8XsN9UZ9giTZJwyKn29br" />
   <component name="ProjectViewState">
@@ -53,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605549322770</updated>
       <workItem from="1605549323801" duration="4194000" />
+      <workItem from="1605557307771" duration="149000" />
+      <workItem from="1605639556538" duration="3935000" />
     </task>
     <servers />
   </component>
@@ -60,6 +72,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="90" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605557424287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605557424287" />
     <state x="166" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605551096807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
