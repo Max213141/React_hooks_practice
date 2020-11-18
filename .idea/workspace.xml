@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a1fac40-249e-4897-ae57-0d688802e6bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/AlertState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/alertContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/GithubState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/github/githubReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +72,8 @@
       <updated>1605549322770</updated>
       <workItem from="1605549323801" duration="4194000" />
       <workItem from="1605557307771" duration="149000" />
-      <workItem from="1605639556538" duration="3935000" />
+      <workItem from="1605639556538" duration="4503000" />
+      <workItem from="1605695916910" duration="10180000" />
     </task>
     <servers />
   </component>
@@ -72,13 +81,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="90" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605557424287">
+    <state x="248" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605709003885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="90" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605557424287" />
-    <state x="166" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605551096807">
+    <state x="248" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605709003885" />
+    <state x="265" y="226" key="RollbackChangesDialog" timestamp="1605709424518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="166" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605551096807" />
+    <state x="265" y="226" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605709424518" />
+    <state x="90" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605644339952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605644339952" />
+    <state x="166" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1605706596401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="166" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605706596401" />
   </component>
 </project>
